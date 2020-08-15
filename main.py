@@ -1,6 +1,6 @@
 """
-@ A simple md5 decoder based on user wordlists
-@ Coded by https://github.com/sudoGabriel
+@ A simple md5 decoder based on user wordlists @
+@ Coded by https://github.com/sudoGabriel @
 
 """
 
